@@ -23,25 +23,41 @@
 
 // TypeScript Types:
         String
+
         Number
+
         Boolean
+
         Array
+
         Any
+
         Void
+
         Null
+
         Tuple
+
         Enum
+
         Generics
 
 // Class Based Objects:
         Object Oriented Programming
+
         No Prototypes
+
         Encapsulation
+
         Inheritance
+
         Modifiers
 
 // TypeScript Compiler (tsc):
         Written in TypeScript itself
+
         Compiles .ts file to .js
+
         Installed as an NPM package (Node.js)
+        
         ES6 Syntax
