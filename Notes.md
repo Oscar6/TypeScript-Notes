@@ -1,4 +1,4 @@
-<h2>TypeScript<h2>
+TypeScript
 
 // Functionality:
 
