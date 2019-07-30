@@ -1,5 +1,36 @@
 TypeScript
 
+// Setting up TypeScript project:
+
+        Create project folder
+
+        Create 'src' folder
+                - Create ".ts" file inside of 'src' folder
+        
+        Install Express
+                - npm i express
+        
+        Install Dev dependencies, Nodemon server, Node types & Express types
+                - npm i -D typescript ts-node nodemon @types/node @types/express
+
+        Create config file
+                - tsc --init
+        
+        Create .json file
+
+        Compiling File
+                - Automatic: tsc example.ts -w
+                - Manual: tsc example.ts
+
+        Run app
+                - npm run build
+        
+        Run JavaScript
+                - npm start
+
+
+
+
 // Functionality:
 
         Superset of JavaScript developed by Microsoft
