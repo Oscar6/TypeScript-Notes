@@ -1,4 +1,4 @@
-<h3>TypeScript<h3>
+<h2>TypeScript<h2>
 
 // Functionality:
 
@@ -21,7 +21,7 @@
         Static Type Checking
             - Can check and assign types for variables, parameter and function types
 
-// TypeScript Types
+// TypeScript Types:
         String
         Number
         Boolean
@@ -33,14 +33,14 @@
         Enum
         Generics
 
-// Class Based Objects
+// Class Based Objects:
         Object Oriented Programming
         No Prototypes
         Encapsulation
         Inheritance
         Modifiers
 
-// TypeScript Compiler (tsc)
+// TypeScript Compiler (tsc):
         Written in TypeScript itself
         Compiles .ts file to .js
         Installed as an NPM package (Node.js)
