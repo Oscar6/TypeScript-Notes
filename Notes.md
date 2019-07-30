@@ -22,6 +22,7 @@
             - Can check and assign types for variables, parameter and function types
 
 // TypeScript Types:
+
         String
 
         Number
@@ -43,6 +44,7 @@
         Generics
 
 // Class Based Objects:
+
         Object Oriented Programming
 
         No Prototypes
@@ -54,10 +56,11 @@
         Modifiers
 
 // TypeScript Compiler (tsc):
+
         Written in TypeScript itself
 
         Compiles .ts file to .js
 
         Installed as an NPM package (Node.js)
-        
+
         ES6 Syntax
